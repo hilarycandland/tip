@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["hilary.candland@mx.com"]
 
   spec.summary       = %q{A gem for generating tip values based o a number of inputs.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/hilarycandland/tip"
 
  
 
